@@ -21,6 +21,8 @@ metadata {
     command "disarm"
     command "armStay"
     command "armAway"
+    command "chime"
+    command "armInstant"
   }
 
   tiles(scale: 2) {
